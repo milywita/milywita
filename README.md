@@ -8,11 +8,6 @@ I am a cybersecurity enthusiast and developer, with a master's in Cyber Security
 - 🔍 Exploring ways to strengthen **cybersecurity defenses**
 - 📘 Preparing for the **CCNA (Cisco Certified Network Associate)** exam
 
-### Technologies & Tools:
-- 💻 Programming: C++, Kotlin, Python
-- 🔐 Cyber Security, CTF challenges
-- 🛠️ Tools: Git, GitHub, IntelliJ, VSCode
-
 ### How to reach me:
 - [Email](gabriel.sergiel.social@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/gabriel-sergiel/)
