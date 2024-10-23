@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hello, I'm [Gabriel] 👋
+# Hello, I'm Gabriel 👋
 
 I am a cybersecurity enthusiast and developer, with a master's in Cyber Security from **York University** and a bachelor's degree in Computer Science from **Liverpool Hope University**.
 
@@ -17,7 +15,7 @@ I am a cybersecurity enthusiast and developer, with a master's in Cyber Security
 
 ### How to reach me:
 - [Email](gabriel.sergiel.social@gmail.com)
-- [[LinkedIn](https://www.linkedin.com/in/gabriel-sergiel/)]
+- [LinkedIn](https://www.linkedin.com/in/gabriel-sergiel/)
 
 <!--
 **milywita/milywita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
